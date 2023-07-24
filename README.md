@@ -27,4 +27,4 @@ The NEAT algorithm works by evaluating the fitness of each neural network based 
 Conclusion:
 The implementation of a Flappy Bird playing AI using the NEAT algorithm showcases the power of evolutionary algorithms in training neural networks to perform complex tasks. By combining genetic algorithms and neuroevolution, NEAT allows for the development of sophisticated AI agents that can learn to play games like Flappy Bird, where human-like intuition and reflexes are required. This project serves as an excellent example of how AI can be applied to the realm of entertainment and gaming, paving the way for even more exciting possibilities in the future.
 
-(Link to Video Example of AI running flappy bird)[https://youtu.be/tWGnCBuKjTA]
+[Link to Video Example of AI running flappy bird](https://youtu.be/tWGnCBuKjTA)
